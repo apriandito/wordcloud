@@ -1,2 +1,2 @@
-# wordcloud
-A Shiny Wordcloud Generator
+# Shiny Wordcloud Generator
+Wordcloud Generator using R Shiny
